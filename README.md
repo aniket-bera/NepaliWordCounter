@@ -67,9 +67,9 @@ uniqueNepaliWords(open("nepalitext.txt", "r", encoding="UTF-8"))
 The output file `U_Nepali_words.txt` will contain the unique Nepali words and their occurrences in the following format:
 
 ```
-word1 --> 5
+word1 --> 1
 word2 --> 3
-word3 --> 1
+word3 --> 5
 ```
 
 ## Contributing
