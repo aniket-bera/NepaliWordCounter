@@ -78,6 +78,8 @@ Contributions are welcome! Please create an issue or submit a pull request for a
 
 ## Contact
 
-For any questions or suggestions, please reach out to aniketbera.ab@gmail.com .
+For any questions or suggestions, please reach out to [aniketbera.ab@gmail.com](mailto:aniketbera.ab@gmail.com).
 
 ---
+
+Thank you for using NepaliWordCounter! We hope it helps you analyze your Nepali text data effectively.
